@@ -1,0 +1,19 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "main": "arrayExtensions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tortoiselizard/toolbox.git"
+  },
+  "author": "Troy Pernía",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tortoiselizard/toolbox/issues"
+  },
+  "homepage": "https://github.com/Tortoiselizard/toolbox#readme",
+  "description": ""
+}
